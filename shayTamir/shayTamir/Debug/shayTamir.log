@@ -1,0 +1,53 @@
+﻿Build started 26/01/2017 18:50:18.
+     1>Project "C:\Users\TAMIR\documents\visual studio 2010\Projects\shayTamir\shayTamir\shayTamir.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\shayTamir.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\shayTamir.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt paintDLG.cpp shayTamirDlg.cpp
+         paintDLG.cpp
+     1>c:\users\tamir\documents\visual studio 2010\projects\shaytamir\shaytamir\paintdlg.cpp(491): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\tamir\documents\visual studio 2010\projects\shaytamir\shaytamir\paintdlg.cpp(492): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         shayTamirDlg.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\TAMIR\documents\visual studio 2010\Projects\shayTamir\Debug\shayTamir.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\shayTamir.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\TAMIR\documents\visual studio 2010\Projects\shayTamir\Debug\shayTamir.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\TAMIR\documents\visual studio 2010\Projects\shayTamir\Debug\shayTamir.lib" /MACHINE:X86 Debug\shayTamir.res
+         Debug\shayTamir.exe.embed.manifest.res
+         Debug\addShape.obj
+         Debug\BrushFactory.obj
+         Debug\Command.obj
+         Debug\dragShape.obj
+         Debug\EllipseFactory.obj
+         Debug\LineFactory.obj
+         Debug\MyBrush.obj
+         Debug\MyEllipse.obj
+         Debug\MyLine.obj
+         Debug\MyRectangle.obj
+         Debug\MyShape.obj
+         Debug\MySpray.obj
+         Debug\paintDLG.obj
+         Debug\RectangleFactory.obj
+         Debug\ShapeFactory.obj
+         Debug\shayTamir.obj
+         Debug\shayTamirDlg.obj
+         Debug\SprayFactory.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\shayTamir.exe.embed.manifest" /manifest Debug\shayTamir.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         shayTamir.vcxproj -> C:\Users\TAMIR\documents\visual studio 2010\Projects\shayTamir\Debug\shayTamir.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\shayTamir.unsuccessfulbuild".
+         Touching "Debug\shayTamir.lastbuildstate".
+     1>Done Building Project "C:\Users\TAMIR\documents\visual studio 2010\Projects\shayTamir\shayTamir\shayTamir.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.01
