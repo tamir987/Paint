@@ -1,4 +1,9 @@
 # Paint
 (C++) MFC - paint application.
-using design patterns & MFC.
+
+including :
+* design patterns
+* MFC
+* OOP
+
 C++ & OOP course's final project.
